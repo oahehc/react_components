@@ -8,10 +8,9 @@ export default class Modal extends Component {
 
   render() {
     return (
-      <div>
-        modal
+      <div className="modal__wrapper">
+        <div className="modal__body">Modal</div>
       </div>
     );
   }
 }
-

@@ -1,0 +1,21 @@
+.modal__wrapper {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(50, 50, 50, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.modal__body {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
